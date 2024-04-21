@@ -1,10 +1,14 @@
 {
   "newmovies": [
     {
-      "name": "New Movie - Godzilla X Kong The New Empire",
+      "name": "Godzilla X Kong The New Empire",
       "image_url": "https://www.filmyzilla.org.im/files/images/Godzilla_x_Kong_The_New_Empire_(2024)_Hindi_Dubbed.jpg",
       "video_id": "https://zativertz295huk.com/pb/dHQxNDUzOTc0MC0xNzEzNDg1NjA0NDI5"
-    }
-   
+    },
+     {
+      "name": "Spider Man No Way Home",
+      "image_url": "https://www.filmyzilla.org.im/files/images/Spider_Man_No_Way_Home_(2021)_Hindi_Dubbed.",
+      "video_id": "https://respuremer296boomizes.com/pb/dHQxMDg3MjYwMC0xNzEzNjYwMTUwOTU0"
+     }   
   ]
 }
