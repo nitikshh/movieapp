@@ -1,0 +1,49 @@
+{
+  "trendingshows": [
+    {
+      "Name": "Transformers Prime",
+      "ImageURL": "https://m.media-amazon.com/images/I/91aV7OU0b9L._AC_UF1000,1000_QL80_.jpg",
+      "VideoList":"https://nitikshh.github.io/cartonz/shows/transformers_prime_show_animated.json"
+    },
+    {
+      "Name": "Slugterra",
+      "ImageURL": "https://i.pinimg.com/736x/ae/85/2e/ae852e2239824726d60d8bf15e053247.jpg",
+      "VideoList":"https://nitikshh.github.io/cartonz/shows/slugterra_show.json"
+    },
+    {
+      "Name": "Supa Strikas",
+      "ImageURL": "https://m.media-amazon.com/images/M/MV5BYTg3ZjllNmQtODcyNi00ZjU1LTkyMmItZjA0MzJjMzRjODJlXkEyXkFqcGdeQXVyMTAwMTYyNjE0._V1_.jpg",
+      "VideoList":"https://nitikshh.github.io/cartonz/shows/supa_strikas.json"
+    },
+    {
+      "Name": "Battle Force 5",
+      "ImageURL": "https://m.media-amazon.com/images/M/MV5BOTQ3MDlhZDAtYWFkZC00NmY4LTliNjQtNjNmYmIxYzRjZTI3XkEyXkFqcGdeQXVyODk1MjAxNzQ@._V1_.jpg",
+      "VideoList":"https://nitikshh.github.io/cartonz/shows/battle_force_5_show.json"
+    },
+    {
+      "Name": "Mr. Bean",
+      "ImageURL": "https://m.media-amazon.com/images/M/MV5BMTY2NGRlZTgtZWU1ZC00NzhkLTgyMmYtYTQyZDgzYmE0ZmYzXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_FMjpg_UX1000_.jpg",
+      "VideoList":"https://nitikshh.github.io/cartonz/shows/mr_bean_animated_show.json"
+    },
+     {
+      "Name": "Rat-A-Tat",
+      "ImageURL": "https://static.wikia.nocookie.net/ratatat/images/9/9d/79F841F4-A131-4C72-8282-A96B870A1CE6.jpeg/revision/latest/thumbnail/width/360/height/360?cb=20220916033137",
+      "VideoList":"https://nitikshh.github.io/cartonz/shows/rat_a_tat_show.json"
+    },
+    {
+      "Name": "Zig and Sharko",
+      "ImageURL": "https://images.justwatch.com/poster/95616916/s718/zig-and-sharko.jpg",
+      "VideoList":"https://nitikshh.github.io/cartonz/shows/zig_and_sharko_show.json"
+    },
+    {
+      "Name": "Masha and the Bear",
+      "ImageURL": "https://m.media-amazon.com/images/M/MV5BOTBkNWQ3OWEtYjUyNy00ODBmLWE3ZTMtOWJhZWYyMmE2MGI1XkEyXkFqcGdeQXVyNzMwOTY2NTI@._V1_FMjpg_UX1000_.jpg",
+       "VideoList":"https://nitikshh.github.io/cartonz/shows/masha_and_the_bear_show.json"
+    },
+    {
+      "Name": "Munki and Trunk",
+      "ImageURL": "https://www.kidsfirst.org/kidsfirstnews/wp-content/uploads/2019/04/Munkiandtrunk.jpg",
+       "VideoList":"https://nitikshh.github.io/cartonz/shows/munki_and_trunk_show.json"
+    }
+  ]
+}
