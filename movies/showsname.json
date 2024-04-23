@@ -1,0 +1,119 @@
+{
+  "Shows": [
+    {
+      "Name": "Transformers Prime",
+      "ImageURL": "https://m.media-amazon.com/images/I/91aV7OU0b9L._AC_UF1000,1000_QL80_.jpg",
+      "VideoList":"https://nitikshh.github.io/cartonz/shows/transformers_prime_show_animated.json"
+    },
+    {
+      "Name": "Slugterra",
+      "ImageURL": "https://i.pinimg.com/736x/ae/85/2e/ae852e2239824726d60d8bf15e053247.jpg",
+      "VideoList":"https://nitikshh.github.io/cartonz/shows/slugterra_show.json"
+    },
+    {
+      "Name": "Supa Strikas",
+      "ImageURL": "https://m.media-amazon.com/images/M/MV5BYTg3ZjllNmQtODcyNi00ZjU1LTkyMmItZjA0MzJjMzRjODJlXkEyXkFqcGdeQXVyMTAwMTYyNjE0._V1_.jpg",
+      "VideoList":"https://nitikshh.github.io/cartonz/shows/supa_strikas.json"
+    },
+    {
+      "Name": "Battle Force 5",
+      "ImageURL": "https://m.media-amazon.com/images/M/MV5BOTQ3MDlhZDAtYWFkZC00NmY4LTliNjQtNjNmYmIxYzRjZTI3XkEyXkFqcGdeQXVyODk1MjAxNzQ@._V1_.jpg",
+      "VideoList":"https://nitikshh.github.io/cartonz/shows/battle_force_5_show.json"
+    },
+    {
+      "Name": "Mr. Bean",
+      "ImageURL": "https://m.media-amazon.com/images/M/MV5BMTY2NGRlZTgtZWU1ZC00NzhkLTgyMmYtYTQyZDgzYmE0ZmYzXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_FMjpg_UX1000_.jpg",
+      "VideoList":"https://nitikshh.github.io/cartonz/shows/mr_bean_animated_show.json"
+    },
+     {
+      "Name": "Rat-A-Tat",
+      "ImageURL": "https://static.wikia.nocookie.net/ratatat/images/9/9d/79F841F4-A131-4C72-8282-A96B870A1CE6.jpeg/revision/latest/thumbnail/width/360/height/360?cb=20220916033137",
+      "VideoList":"https://nitikshh.github.io/cartonz/shows/rat_a_tat_show.json"
+    },
+    {
+      "Name": "Zig and Sharko",
+      "ImageURL": "https://images.justwatch.com/poster/95616916/s718/zig-and-sharko.jpg",
+      "VideoList":"https://nitikshh.github.io/cartonz/shows/zig_and_sharko_show.json"
+    },
+    {
+      "Name": "Masha and the Bear",
+      "ImageURL": "https://m.media-amazon.com/images/M/MV5BOTBkNWQ3OWEtYjUyNy00ODBmLWE3ZTMtOWJhZWYyMmE2MGI1XkEyXkFqcGdeQXVyNzMwOTY2NTI@._V1_FMjpg_UX1000_.jpg",
+       "VideoList":"https://nitikshh.github.io/cartonz/shows/masha_and_the_bear_show.json"
+    },
+    {
+      "Name": "We Bare Bears",
+      "ImageURL": "https://m.media-amazon.com/images/M/MV5BMjM2NDQ5ODMxOV5BMl5BanBnXkFtZTgwMzc5MDc0NjE@._V1_FMjpg_UX1000_.jpg",
+       "VideoList":"https://nitikshh.github.io/cartonz/shows/The_Berenstain_Bears_show.json"
+    },
+    {
+      "Name": "Miniforce",
+      "ImageURL": "https://prod-cdn-static-1.intigral-ott.net/imagizer/1280x0@75/http://s3-eu-west-1.amazonaws.com/rockettv.media.images/content.lite/Portrait/S0008562_STARZ.jpg",
+       "VideoList":"https://nitikshh.github.io/cartonz/shows/miniforce_show.json"
+    },
+    {
+      "Name": "Ninja Hattori",
+      "ImageURL": "https://m.media-amazon.com/images/M/MV5BODlkMzM0ZmQtM2YyMC00NGFiLTgxNGMtNTljN2EzM2EzYjJmXkEyXkFqcGdeQXVyMzkzODQwMA@@._V1_FMjpg_UX1000_.jpg",
+       "VideoList":"https://nitikshh.github.io/cartonz/shows/ninja_hattori_show.json"
+    },
+    {
+      "Name": "Motu Patlu",
+      "ImageURL": "https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/z/n/f/medium-poster-motu-patlu-ki-shandar-jodi-cartoon-hd-wallpaper-original-imaguy36rnfhhdpw.jpeg?q=20&crop=false",
+       "VideoList":"https://nitikshh.github.io/cartonz/shows/motu_patlu_show.json"
+    },
+    {
+      "Name": "Shiva",
+      "ImageURL": "https://i.pinimg.com/originals/37/bd/31/37bd311450cd1a4234ecc3f3fba4320d.jpg",
+       "VideoList":"https://nitikshh.github.io/cartonz/shows/shiva_animation.json"
+    },
+    {
+      "Name": "Rudra",
+      "ImageURL": "https://cdn.indiacast.com/syndication/wp-content/uploads/2022/09/08091031/RUDRA_1152W-X-1080H_Mobile-Unique-Page.jpg",
+       "VideoList":"https://nitikshh.github.io/cartonz/shows/rudra_animation.json"
+    },
+    {
+      "Name": "The Jungle Book",
+      "ImageURL": "https://m.media-amazon.com/images/M/MV5BYzNjZjBkNDctMjUxYi00N2NhLWIxYjgtNTFiODgyYTVhZWUwXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+       "VideoList":"https://nitikshh.github.io/cartonz/shows/jungle_book_animation.json"
+    },
+    {
+      "Name": "Peppa Pig",
+      "ImageURL": "https://m.media-amazon.com/images/M/MV5BNDdmYWE4ZGYtMThmZS00ZWRkLTgxNjItOTIwYjljMGM4NDRiXkEyXkFqcGdeQXVyMTYxODM5NzE0._V1_.jpg",
+       "VideoList":"https://nitikshh.github.io/cartonz/shows/peppa_pig.json"
+    },
+    {
+      "Name": "Pyar Mohabbat - Happy Lucky",
+      "ImageURL": "https://dreamdth.com/wp-content/uploads/2020/08/Pyaar-Mohabbat-Happy-Lucky.jpeg",
+       "VideoList":"https://nitikshh.github.io/cartonz/shows/pyaar_mohabbat_happy_lucky_animation.json"
+    },
+    {
+      "Name": "Chhota Bheem",
+      "ImageURL": "https://m.media-amazon.com/images/M/MV5BMzAyMDQwMGYtMGNmNS00OWM4LTlmMTAtM2E5YjQ4Yjk1ZmEwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
+       "VideoList":"https://nitikshh.github.io/cartonz/shows/chota_bheem_animation.json"
+    },
+    {
+      "Name": "Adventures of Kicko & Super Speedo",
+      "ImageURL": "https://m.media-amazon.com/images/M/MV5BNjAwNmJlZTUtMDQ0MS00MDdlLTlkMTUtM2EzZWVmMzFlOGMyXkEyXkFqcGdeQXVyODAzNzAwOTU@._V1_FMjpg_UX1000_.jpg",
+       "VideoList":"https://nitikshh.github.io/cartonz/shows/Adventures_of_Kicko_and_Super_Speedo_animation.json"
+    },
+    {
+      "Name": "Titipo",
+      "ImageURL": "https://static.wikia.nocookie.net/soundeffects/images/d/d1/20180125104123743_039_RE.png/revision/latest?cb=20180605200439",
+       "VideoList":"https://nitikshh.github.io/cartonz/shows/titipo_animation.json"
+    },
+    {
+      "Name": "Gattu Battu",
+      "ImageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqNGJDasSuZcfR9NJlx2i4-OP0FcMiLu4LlQ&usqp=CAU",
+       "VideoList":"https://nitikshh.github.io/cartonz/shows/gattu_battu_animation.json"
+    },
+    {
+      "Name": "Munki and Trunk",
+      "ImageURL": "https://www.kidsfirst.org/kidsfirstnews/wp-content/uploads/2019/04/Munkiandtrunk.jpg",
+       "VideoList":"https://nitikshh.github.io/cartonz/shows/munki_and_trunk_show.json"
+    },
+    {
+      "Name": "Horrid Henry",
+      "ImageURL": "https://assets.mycast.io/posters/horrid-henry-fan-casting-poster-228946-large.jpg?1660983102",
+       "VideoList":"https://nitikshh.github.io/cartonz/shows/horrid_henry_animation.json"
+    }
+  ]
+}
