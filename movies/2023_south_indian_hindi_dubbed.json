@@ -1,5 +1,6 @@
-[
-    {
+{
+  "movies": [
+       {
         "name": "Rudhran (2023) South Indian Hindi Dubbed Movie.Html",
         "image_url": "https://www.filmyzilla.com.lk/files/images/Rudhran_(2023)_South_Indian_Hindi_Dubbed_Movie.",
         "video_id": "https://trinstor297undoint.com/pb/dHQxNTMwMzE5Mi0xNzE0NDg0ODAyNTE4"
@@ -874,4 +875,5 @@
         "image_url": "https://www.filmyzilla.com.lk/files/images/Varisu_(2023)_South_Indian_Hindi_Dubbed.jpg",
         "video_id": "https://trinstor297undoint.com/pb/dHQxMTk5ODU1OC0xNzE0NDg5NTA2ODU5"
     }
-]
+  ]
+}
