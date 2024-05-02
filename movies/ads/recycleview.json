@@ -50,5 +50,30 @@
     "shortlink": "https://amzn.to/3ws3NPP",
     "brand": "Visit the Fire-Boltt Store",
     "price": "999"
+},
+    {
+    "image_sources": [
+        "https://m.media-amazon.com/images/I/81BTRVfsuFL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/710WNOZaxDL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81+Md+CbJmL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81rxJGhteqL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71np-8Y0tsL._SX679_.jpg"
+    ],
+    "product_title": "Samsung Galaxy M15 5G (Blue Topaz,4GB RAM,128GB Storage)| 50MP Triple Cam| 6000mAh Battery| MediaTek Dimensity 6100+ | 4 Gen. OS Upgrade & 5 Year Security Update| Super AMOLED Display| Without Charger",
+    "shortlink": "https://amzn.to/44pewqU",
+    "brand": "Visit the Samsung Store",
+    "price": "11,999"
+},
+{
+    "image_sources": [
+        "https://m.media-amazon.com/images/I/81+JoY4p-ZL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71R7x21-pLL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71RdRAWG0fL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71o3K9DZqxL._SX679_.jpg"
+    ],
+    "product_title": "OPPO A38 (Glowing Gold, 4GB RAM, 128GB Storage) | 5000 mAh Battery and 33W SUPERVOOC | 6.56\" HD 90Hz Waterdrop Display | 50MP Rear AI Camera with No Cost EMI/Additional Exchange Offers",
+    "shortlink": "https://amzn.to/3JHAMTd",
+    "brand": "Visit the Oppo Store",
+    "price": "9,999"
 }
 ]
