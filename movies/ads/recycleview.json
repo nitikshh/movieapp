@@ -11,22 +11,7 @@
         "product_title": "Campus Men's North Plus Running Shoes",
         "shortlink": "https://amzn.to/3w54Oxm",
         "brand": "Visit the Campus Store",
-        "price": "1,099",
-        "product_details": {
-            "Material type": "Mesh",
-            "Closure type": "Lace-Up",
-            "Heel type": "No Heel",
-            "Water resistance level": "Not Water Resistant",
-            "Sole material": "Thermoplastic Elastomers",
-            "Style": "Running Shoe",
-            "Country of Origin": "India",
-            "Manufacturer": "Campus, Campus Shoes,D-1, Rohtak Road, Udyog Nagar, Opp. Peera Garhi Metro Station Gate No 2, New Delhi, Delhi 110041,ph no- 01143272600",
-            "Packer": "Campus Shoes,D-1, Rohtak Road, Udyog Nagar, Opp. Peera Garhi Metro Station Gate No 2, New Delhi, Delhi 110041,ph no- 01143272500",
-            "Item Weight": "900 g",
-            "Item Dimensions LxWxH": "30.5 x 21.5 x 11.2 Centimeters",
-            "Net Quantity": "1 count",
-            "Generic Name": "Running Shoe"
-        }
+        "price": "1,099"
     },
     {
         "image_sources": [
@@ -38,22 +23,41 @@
         "product_title": "Campus Men's Hurricane Running Shoes",
         "shortlink": "https://amzn.to/4bn5P2N",
         "brand": "Visit the Campus Store",
-        "price": "937",
-        "product_details": {
-            "Material type": "Mesh",
-            "Closure type": "Lace-Up",
-            "Heel type": "Block Heel",
-            "Water resistance level": "Not Water Resistant",
-            "Sole material": "Rubber",
-            "Style": "6G-842",
-            "Country of Origin": "India",
-            "Manufacturer": "Campus Activewear Pvt. Ltd., Campus Activewear Pvt. Ltd., C9&10 Salaqui Industrial Area, Dehradun 248197",
-            "Packer": "Campus Activewear Pvt. Ltd., C9&10 Salaqui Industrial Area, Dehradun 248197",
-            "Item Weight": "600 g",
-            "Item Dimensions LxWxH": "31 x 21.8 x 11 Centimeters",
-            "Net Quantity": "1 Set",
-            "Included Components": "1 Pair of Sports Shoes",
-            "Generic Name": "Sneaker"
-        }
-    }
+        "price": "937"
+    },
+    {
+    "image_sources": [
+        "https://m.media-amazon.com/images/I/61S3wf8ZrZL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71ERPYSOWqL._SX679_.jpg"
+    ],
+    "product_title": "Cultsport Active T 2.01 HD Display, Single Chip BT Calling, Rotating Crown, 200 WatchFace Smartwatch (Black Strap, Free Size)",
+    "shortlink": "https://amzn.to/44lTKbN",
+    "brand": "CULTSPORT",
+    "price": "1,399"
+},
+    {
+    "image_sources": [
+        "https://m.media-amazon.com/images/I/71lqfmYUT7L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/51r8JYRNW1L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61e2rlBA7GL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61TxizawdhL._SX679_.jpg"
+    ],
+    "product_title": "Maxima Max Pro X5 Smartwatch-Premium Ultra Slim 1.7\u201d HD Display with 15 Days Battery Life,IP68 Resistance,60+ Watch Faces,Sleep&SpO2 Monitoring,Social Media alerts, Multiple Exercise Modes(Jet Black)",
+    "shortlink": "https://amzn.to/4dm03Qu",
+    "brand": "Maxima",
+    "price": "1,099"
+},
+    {
+    "image_sources": [
+        "https://m.media-amazon.com/images/I/61y2VVWcGBL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71S2ZvD4aAL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61+nkYOtztL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61vWcqrwRvL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71Xp2Hd-1lL._SX679_.jpg"
+    ],
+    "product_title": "Fire-Boltt Phoenix Smart Watch with Bluetooth Calling 1.3\",120+ Sports Modes, 240 * 240 PX High Res with SpO2, Heart Rate Monitoring & IP67 Rating (Black)",
+    "shortlink": "https://amzn.to/3ws3NPP",
+    "brand": "Visit the Fire-Boltt Store",
+    "price": "999"
+}
 ]
