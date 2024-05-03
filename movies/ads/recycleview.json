@@ -75,5 +75,88 @@
     "shortlink": "https://amzn.to/3JHAMTd",
     "brand": "Visit the Oppo Store",
     "price": "9,999"
+},
+    {
+    "image_sources": [
+        "https://m.media-amazon.com/images/I/41KuRShR97L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61jpmkOM6gL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/51zOFDZ9O2L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71qwWAxsmUL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61OBxMIuwcL._SX679_.jpg"
+    ],
+    "product_title": "Portronics Toad 23 Wireless Optical Mouse with 2.4GHz, USB Nano Dongle, Optical Orientation, Click Wheel, Adjustable DPI(Black)",
+    "shortlink": "https://amzn.to/4aYQci7",
+    "brand": "Visit the Portronics Store",
+    "price": "279"
+},{
+    "image_sources": [
+        "https://m.media-amazon.com/images/I/61zroMjd9FL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/410QxTYO9LL.jpg",
+        "https://m.media-amazon.com/images/I/61pntmUmF7L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71Ou5Ew6pTL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61KD+jZkpEL._SX679_.jpg"
+    ],
+    "product_title": "STRIFF Mpad Mouse Mat 230X190X3mm Gaming Mouse Pad, Non-Slip Rubber Base, Waterproof Surface, Premium-Textured, Compatible with Laser and Optical Mice(Universe Black)",
+    "shortlink": "https://amzn.to/4a6xPqi",
+    "brand": "Visit the STRIFF Store",
+    "price": "129"
+},{
+    "image_sources": [
+        "https://m.media-amazon.com/images/I/819DWQLgjKL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71DUoWGagJL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/814ZRcbQaZL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61ITXJ1F0ZL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71SWP+Ma8WL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/711XslHdHNL._SX679_.jpg"
+    ],
+    "product_title": "Fire-Boltt Phoenix Ultra Luxury Stainless Steel, Bluetooth Calling Smartwatch, AI Voice Assistant, Metal Body with 120+ Sports Modes, SpO2, Heart Rate Monitoring (Gold)",
+    "shortlink": "https://amzn.to/4b1DnU2",
+    "brand": "Visit the Fire-Boltt Store",
+    "price": "1399"
+},{
+    "image_sources": [
+        "https://m.media-amazon.com/images/I/61AHiYyu3ZL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81DEzbJ9ERL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71tOBelnDYL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71U-rEX7y5L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61nWKX1mD0L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71caV57crpL._SX679_.jpg"
+    ],
+    "product_title": "Fire-Boltt Ninja Call Pro Plus 1.83\" Smart Watch with Bluetooth Calling, AI Voice Assistance, 100 Sports Modes IP67 Rating, 240 * 280 Pixel High Resolution",
+    "shortlink": "https://amzn.to/44ojzbd",
+    "brand": "Visit the Fire-Boltt Store",
+    "price": "999"
+},{
+    "image_sources": [
+        "https://m.media-amazon.com/images/I/71kxX+vFv+L._SX522_.jpg"
+    ],
+    "product_title": "Fastrack New Limitless X2 Smartwatch|1.91\" UltraVU with Rotating Crown|60 Hz Refresh Rate|Advanced Chipset|SingleSync BT Calling|NitroFast Charge|100+ Sports Mode & Watchfaces|Upto 5 Day Battery|IP68",
+    "shortlink": "https://amzn.to/3Qw7zyF",
+    "brand": "Visit the Fastrack Store",
+    "price": "1,299"
+},{
+    "image_sources": [
+        "https://m.media-amazon.com/images/I/61L4ZMMwgCL._SY625_.jpg",
+        "https://m.media-amazon.com/images/I/61OC6Doy0AL._SY695_.jpg",
+        "https://m.media-amazon.com/images/I/61djn1CRqCL._SY695_.jpg",
+        "https://m.media-amazon.com/images/I/61Q6syubtbL._SY695_.jpg"
+    ],
+    "product_title": "Sparx Men's Sc0162g Sneakers",
+    "shortlink": "https://amzn.to/3QwEvXD",
+    "brand": "Brand: Sparx",
+    "price": "709"
+},{
+    "image_sources": [
+        "https://m.media-amazon.com/images/I/61wE1PW++7L._SX695_.jpg",
+        "https://m.media-amazon.com/images/I/41yEwFj4ExL._SY695_.jpg",
+        "https://m.media-amazon.com/images/I/71hsGw7vwXL._SX695_.jpg",
+        "https://m.media-amazon.com/images/I/51ubIkxBBqL._SX695_.jpg",
+        "https://m.media-amazon.com/images/I/51uszdBir1L._SY695_.jpg",
+        "https://m.media-amazon.com/images/I/41ra+R9h2VL._SY695_.jpg"
+    ],
+    "product_title": "Sparx Mens Sd0734g Sneaker",
+    "shortlink": "https://amzn.to/3UHtF3I",
+    "brand": "Visit the SPARX Store",
+    "price": "559"
 }
 ]
