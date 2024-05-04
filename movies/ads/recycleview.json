@@ -11,6 +11,9 @@
         "product_title": "Campus Men's North Plus Running Shoes",
         "shortlink": "https://amzn.to/3w54Oxm",
         "brand": "Visit the Campus Store",
+        "reviews": "4534",
+        "product_details": "The Campus Men's North Plus Running Shoes feature a lightweight and breathable design, making them ideal for long-distance running. With responsive cushioning and durable construction, these shoes provide comfort and support mile after mile.",
+        "rating": "4.5",
         "price": "1,099"
     },
     {
@@ -23,140 +26,72 @@
         "product_title": "Campus Men's Hurricane Running Shoes",
         "shortlink": "https://amzn.to/4bn5P2N",
         "brand": "Visit the Campus Store",
+        "reviews": "7854",
+        "product_details": "The Campus Men's Hurricane Running Shoes are designed for stability and support during high-intensity workouts. Featuring a cushioned midsole and durable outsole, these shoes provide reliable performance in any activity.",
+        "rating": "4.6",
         "price": "937"
+        
     },
-  
     {
-    "image_sources": [
-        "https://m.media-amazon.com/images/I/71lqfmYUT7L._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/51r8JYRNW1L._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/61e2rlBA7GL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/61TxizawdhL._SX679_.jpg"
-    ],
-    "product_title": "Maxima Max Pro X5 Smartwatch-Premium Ultra Slim",
-    "shortlink": "https://amzn.to/4dm03Qu",
-    "brand": "Maxima",
-    "price": "1,099"
-},
+        "image_sources": [
+            "https://m.media-amazon.com/images/I/71lqfmYUT7L._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/51r8JYRNW1L._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/61e2rlBA7GL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/61TxizawdhL._SX679_.jpg"
+        ],
+        "product_title": "Maxima Max Pro X5 Smartwatch-Premium Ultra Slim",
+        "shortlink": "https://amzn.to/4dm03Qu",
+        "brand": "Maxima",
+        "reviews": "9632",
+        "product_details": "The Maxima Max Pro X5 Smartwatch combines sleek design with advanced features. With its ultra-slim profile and premium materials, this smartwatch offers both style and functionality. Stay connected and track your fitness goals with ease.",
+        "rating": "4.8",
+        "price": "1,099"
+    },
     {
-    "image_sources": [
-        "https://m.media-amazon.com/images/I/61y2VVWcGBL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/71S2ZvD4aAL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/61+nkYOtztL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/61vWcqrwRvL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/71Xp2Hd-1lL._SX679_.jpg"
-    ],
-    "product_title": "Fire-Boltt Phoenix Smart Watch with Bluetooth Calling",
-    "shortlink": "https://amzn.to/3ws3NPP",
-    "brand": "Visit the Fire-Boltt Store",
-    "price": "999"
-},
+        "image_sources": [
+            "https://m.media-amazon.com/images/I/61y2VVWcGBL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/71S2ZvD4aAL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/61+nkYOtztL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/61vWcqrwRvL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/71Xp2Hd-1lL._SX679_.jpg"
+        ],
+        "product_title": "Fire-Boltt Phoenix Smart Watch with Bluetooth Calling",
+        "shortlink": "https://amzn.to/3ws3NPP",
+        "brand": "Visit the Fire-Boltt Store",
+        "reviews": "154",
+        "product_details": "The Fire-Boltt Phoenix Smart Watch offers seamless Bluetooth calling and fitness tracking in a sleek and stylish design. Stay connected and motivated with this versatile smartwatch.",
+        "rating": "4.2",
+        "price": "999"
+    },
     {
-    "image_sources": [
-        "https://m.media-amazon.com/images/I/81BTRVfsuFL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/710WNOZaxDL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/81+Md+CbJmL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/81rxJGhteqL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/71np-8Y0tsL._SX679_.jpg"
-    ],
-    "product_title": "Samsung Galaxy M15 5G (Blue Topaz,4GB RAM,128GB Storage)| 50MP Triple Cam| 6000mAh Battery",
-    "shortlink": "https://amzn.to/44pewqU",
-    "brand": "Visit the Samsung Store",
-    "price": "11,999"
-},
-{
-    "image_sources": [
-        "https://m.media-amazon.com/images/I/81+JoY4p-ZL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/71R7x21-pLL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/71RdRAWG0fL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/71o3K9DZqxL._SX679_.jpg"
-    ],
-    "product_title": "OPPO A38 (Glowing Gold, 4GB RAM, 128GB Storage) | 5000 mAh Battery and 33W SUPERVOOC",
-    "shortlink": "https://amzn.to/3JHAMTd",
-    "brand": "Visit the Oppo Store",
-    "price": "9,999"
-},
+        "image_sources": [
+            "https://m.media-amazon.com/images/I/81BTRVfsuFL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/710WNOZaxDL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/81+Md+CbJmL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/81rxJGhteqL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/71np-8Y0tsL._SX679_.jpg"
+        ],
+        "product_title": "Samsung Galaxy M15 5G (Blue Topaz,4GB RAM,128GB Storage)| 50MP Triple Cam| 6000mAh Battery",
+        "shortlink": "https://amzn.to/44pewqU",
+        "brand": "Visit the Samsung Store",
+        "reviews": "98798",
+        "product_details": "The Samsung Galaxy M15 5G features a stunning 50MP triple camera setup, a powerful 6000mAh battery, and ultra-fast 5G connectivity. With its sleek design and premium features, this smartphone is perfect for capturing life's moments and staying connected on the go.",
+        "rating": "4.7",
+        "price": "11,999"
+    },
     {
-    "image_sources": [
-        "https://m.media-amazon.com/images/I/41KuRShR97L._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/61jpmkOM6gL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/51zOFDZ9O2L._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/71qwWAxsmUL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/61OBxMIuwcL._SX679_.jpg"
-    ],
-    "product_title": "Portronics Toad 23 Wireless Optical Mouse with 2.4GHz, USB Nano Dongle, Optical Orientation, Click Wheel, Adjustable DPI(Black)",
-    "shortlink": "https://amzn.to/4aYQci7",
-    "brand": "Visit the Portronics Store",
-    "price": "279"
-},{
-    "image_sources": [
-        "https://m.media-amazon.com/images/I/61zroMjd9FL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/410QxTYO9LL.jpg",
-        "https://m.media-amazon.com/images/I/61pntmUmF7L._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/71Ou5Ew6pTL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/61KD+jZkpEL._SX679_.jpg"
-    ],
-    "product_title": "STRIFF Mpad Mouse Mat 230X190X3mm Gaming Mouse Pad, Non-Slip Rubber Base, Waterproof Surface, Premium-Textured, Compatible with Laser and Optical Mice(Universe Black)",
-    "shortlink": "https://amzn.to/4a6xPqi",
-    "brand": "Visit the STRIFF Store",
-    "price": "129"
-},{
-    "image_sources": [
-        "https://m.media-amazon.com/images/I/819DWQLgjKL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/71DUoWGagJL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/814ZRcbQaZL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/61ITXJ1F0ZL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/71SWP+Ma8WL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/711XslHdHNL._SX679_.jpg"
-    ],
-    "product_title": "Fire-Boltt Phoenix Ultra Luxury Stainless Steel, Bluetooth Calling Smartwatch, AI Voice Assistant, Metal Body with 120+ Sports Modes, SpO2, Heart Rate Monitoring (Gold)",
-    "shortlink": "https://amzn.to/4b1DnU2",
-    "brand": "Visit the Fire-Boltt Store",
-    "price": "1399"
-},{
-    "image_sources": [
-        "https://m.media-amazon.com/images/I/61AHiYyu3ZL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/81DEzbJ9ERL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/71tOBelnDYL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/71U-rEX7y5L._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/61nWKX1mD0L._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/71caV57crpL._SX679_.jpg"
-    ],
-    "product_title": "Fire-Boltt Ninja Call Pro Plus 1.83\" Smart Watch with Bluetooth Calling, AI Voice Assistance, 100 Sports Modes IP67 Rating, 240 * 280 Pixel High Resolution",
-    "shortlink": "https://amzn.to/44ojzbd",
-    "brand": "Visit the Fire-Boltt Store",
-    "price": "999"
-},{
-    "image_sources": [
-        "https://m.media-amazon.com/images/I/71kxX+vFv+L._SX522_.jpg"
-    ],
-    "product_title": "Fastrack New Limitless X2 Smartwatch|1.91\" UltraVU with Rotating Crown|60 Hz Refresh Rate|Advanced Chipset|SingleSync BT Calling|NitroFast Charge|100+ Sports Mode & Watchfaces|Upto 5 Day Battery|IP68",
-    "shortlink": "https://amzn.to/3Qw7zyF",
-    "brand": "Visit the Fastrack Store",
-    "price": "1,299"
-},{
-    "image_sources": [
-        "https://m.media-amazon.com/images/I/61L4ZMMwgCL._SY625_.jpg",
-        "https://m.media-amazon.com/images/I/61OC6Doy0AL._SY695_.jpg",
-        "https://m.media-amazon.com/images/I/61djn1CRqCL._SY695_.jpg",
-        "https://m.media-amazon.com/images/I/61Q6syubtbL._SY695_.jpg"
-    ],
-    "product_title": "Sparx Men's Sc0162g Sneakers",
-    "shortlink": "https://amzn.to/3QwEvXD",
-    "brand": "Brand: Sparx",
-    "price": "709"
-},{
-    "image_sources": [
-        "https://m.media-amazon.com/images/I/61wE1PW++7L._SX695_.jpg",
-        "https://m.media-amazon.com/images/I/41yEwFj4ExL._SY695_.jpg",
-        "https://m.media-amazon.com/images/I/71hsGw7vwXL._SX695_.jpg",
-        "https://m.media-amazon.com/images/I/51ubIkxBBqL._SX695_.jpg",
-        "https://m.media-amazon.com/images/I/51uszdBir1L._SY695_.jpg",
-        "https://m.media-amazon.com/images/I/41ra+R9h2VL._SY695_.jpg"
-    ],
-    "product_title": "Sparx Mens Sd0734g Sneaker",
-    "shortlink": "https://amzn.to/3UHtF3I",
-    "brand": "Visit the SPARX Store",
-    "price": "559"
-}
+        "image_sources": [
+            "https://m.media-amazon.com/images/I/81+JoY4p-ZL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/71R7x21-pLL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/71RdRAWG0fL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/71o3K9DZqxL._SX679_.jpg"
+        ],
+        "product_title": "OPPO A38 (Glowing Gold, 4GB RAM, 128GB Storage) | 5000 mAh Battery and 33W SUPERVOOC",
+        "shortlink": "https://amzn.to/3JHAMTd",
+        "brand": "Visit the Oppo Store",
+        "reviews": "98742",
+        "product_details": "The OPPO A38 features a vibrant 6.5-inch display, a powerful 5000mAh battery, and fast charging technology for all-day use. With its sleek design and advanced features, this smartphone offers an exceptional user experience.",
+        "rating": "4.6",
+        "price": "9,999"
+    }
 ]
